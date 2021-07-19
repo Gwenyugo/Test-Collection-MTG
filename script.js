@@ -241,7 +241,6 @@ btn_suiv_etp1.addEventListener("click", () => {
                             tab_card_ninox.fields.premodern       = value[1].premodern; //["premodern"];
                             //#endregion
 
-                            console.group
                             for (let i = 1 ; i<arr_num.length ; i++)
                             {
                                 init_tab_card_ninox(true);
